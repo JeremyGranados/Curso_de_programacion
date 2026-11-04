@@ -11,8 +11,7 @@ from urllib.request import Request, urlopen
 
 
 URL_BASE = (
-    "https://api.github.com/repos/amenaactppp/td10-datos-publicos/"
-    "contents/datos/"
+    "https://api.github.com/repos/amenaactppp/td10-datos-publicos/contents/datos/"
 )
 CARPETA = Path(__file__).resolve().parent
 
